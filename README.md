@@ -28,17 +28,6 @@ Bu sahifa Bootstrap framework'ining asosiy komponentlarini o'rganish maqsadida t
 - **Bootstrap** (grid, navbar, card, form, button komponentlari)
 - **Netlify** (hosting)
 
-## 🚀 Lokal ishga tushirish
-
-1. Repozitoriyni yuklab oling:
-   ```bash
-   git clone https://github.com/FOYDALANUVCHI_NOMI/REPOZITORIY_NOMI.git
-   ```
-2. Papkaga kiring:
-   ```bash
-   cd REPOZITORIY_NOMI
-   ```
-3. `index.html` faylini brauzerda oching.
 
 > Qo'shimcha o'rnatish talab qilinmaydi, loyiha oddiy statik sahifadir.
 
@@ -50,16 +39,10 @@ Bu sahifa Bootstrap framework'ining asosiy komponentlarini o'rganish maqsadida t
 └── (qo'shimcha rasm va fayllar)
 ```
 
-## 🔮 Kelajakdagi rejalar
-
-- [ ] Tugmalar va havolalarni ishlaydigan qilish
-- [ ] Navbar menyusini to'ldirish
-- [ ] Sahifani mobil qurilmalarga yanada moslashtirish
-- [ ] Ko'proq o'yinlar va ma'lumotlar qo'shish
 
 ## 👤 Muallif
 
-**Kimsanov Arobiddin**
+**Abubakr Sultonboev**
 Andijon davlat texnika instituti
 
 ## 📄 Litsenziya
